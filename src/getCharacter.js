@@ -1,3 +1,4 @@
+// Trybe document
 /*
 Essa função recebe como parâmetro o nome de um personagem e retorna um objeto com seu nome, classe e frases.
 

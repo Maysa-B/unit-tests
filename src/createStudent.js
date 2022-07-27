@@ -1,3 +1,4 @@
+// Trybe document
 /*
   Dada uma função chamada createStudent que recebe como parâmetro um nome,
   retorne um objeto que contenha duas chaves:
